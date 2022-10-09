@@ -1,0 +1,67 @@
+-COMPUTER NAME:
+DESKTOP-R76UJRM
+-+:
+-+:
+-COMPUTER USER NAME:
+haluk
+-+:
+-+:
+-CURRENT WORKING DIRECTORY:
+/mnt/c/Users/90538
+-+:
+-+:
+-CURRENT RUNNING SERVICES and APPLICATIONS:
+  PID TTY          TIME CMD
+ 1322 pts/2    00:00:00 bash
+ 1567 pts/2    00:00:00 bash
+ 1594 pts/2    00:00:00 ps
+ 1595 pts/2    00:00:00 more
+-+:
+-+:
+-OPENED PORTS:
+State   Recv-Q   Send-Q     Local Address:Port     Peer Address:Port  Process   
+-+:
+-+:
+-IP and NETWORK ADAPTERS:
+eth0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 172.20.252.200  netmask 255.255.240.0  broadcast 172.20.255.255
+        inet6 fe80::215:5dff:fee8:8db8  prefixlen 64  scopeid 0x20<link>
+        ether 00:15:5d:e8:8d:b8  txqueuelen 1000  (Ethernet)
+        RX packets 66277  bytes 18648587 (18.6 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 60910  bytes 48105568 (48.1 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 0  bytes 0 (0.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+-+:
+-+:
+-GET AVAILABLE MEMORY SPACE:
+MemTotal:       12955316 kB
+-+:
+-+:
+-AVAILABLE HARD DISK SPACE:
+Filesystem         Avail
+/dev/sdb       243743412
+tmpfs            6477656
+tools           61008792
+none             6475572
+none             6477648
+none             6477656
+none             6477656
+none             6477656
+tmpfs            6477656
+drivers         61008792
+lib             61008792
+C:\             61008792
+-+:
+-+:
+-FINISHED
+-+:
